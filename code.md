@@ -2,5 +2,5 @@
 
 - Semver is short
 - Homepage: https://semver.org
-- Use three numbers in versionning
+- Use three numbers in versioning
 
