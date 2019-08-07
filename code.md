@@ -14,3 +14,12 @@
 npm install -g standard-version
 ```
 
+## How it works:
+
+1. when you land commits on your master branch, select the Squash and Merge option.
+2. add a title and body that follows the Conventional Commits Specification.
+3. when you're ready to release:
+4. ```bash git checkout master; git pull origin master```
+5. run `standard-version`
+6. git push --follow-tags origin master && npm publish (or, docker push, gem push, etc.)
+
