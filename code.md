@@ -29,5 +29,5 @@ standard-version --version
 ```bash
 standard-version --help
 standard-version --release-as 0.2.0
-standard-version --first-relaease
+standard-version --first-release
 ```
