@@ -23,3 +23,11 @@ standard-version --version
 4. ```bash git checkout master; git pull origin master```
 5. run `standard-version`
 6. git push --follow-tags origin master && npm publish (or, docker push, gem push, etc.)
+
+## Commands
+
+```bash
+standard-version --help
+standard-version --release-as 0.2.0
+standard-version --first-relaease
+```
