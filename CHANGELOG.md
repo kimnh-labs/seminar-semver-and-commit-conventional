@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.1.2](https://github.com-kimnguyen.ict///compare/v0.1.1...v0.1.2) (2019-08-08)
 
+
+### Features
+
+* Add commands section ([88a2703](https://github.com-kimnguyen.ict///commit/88a2703))
+
+### [0.1.2](https://github.com-kimnguyen.ict///compare/v0.1.1...v0.1.2) (2019-08-08)
+
 ### [0.1.1](///compare/v0.1.0...v0.1.1) (2019-08-08)
 
 
